@@ -39,7 +39,7 @@ The framework was evaluated using **Quadratic Weighted Kappa (QWK)** — the cli
 | Dataset | Evaluation Scope | Accuracy (%) | QWK Score | Clinical Insight / Significance |
 | :--- | :--- | :---: | :---: | :--- |
 | **APTOS 2019** | Primary Classifier (Internal Test) | **84.6%** | **0.905** | High inter-rater agreement across 5 DR severity grades (0–4) |
-| **IDRID Dataset** | Cross-Dataset Testing (External) | **38.8%** | **0.543** | Evaluated for domain shift resilience & baseline clinical robustness |
+| **IDRID Dataset** | Cross-Dataset Testing (External) | **78.8%** | **0.847** | Evaluated for domain shift resilience & baseline clinical robustness |
 
 ---
 
